@@ -45,7 +45,7 @@ const consultarClima = () => {
             >
         </div>
         <div class="campo">
-            <label for="pais">Ciudad</label>
+            <label for="pais">País</label>
             <select 
                 id="pais"
                 v-model="busqueda.pais"

@@ -7,7 +7,7 @@ html {
   font-size: 62.5%;
 }
 body {
-  background-image: url(../img/bg_clima.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/bg_clima.png);
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
